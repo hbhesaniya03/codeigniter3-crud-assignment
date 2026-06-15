@@ -15,7 +15,7 @@ Features:
 
 Setup Steps:
 
-1. Import ci_crud.sql into MySQL.
+1. Import dev_db_ci.sql into MySQL.
 2. Copy the CodeIgniter folder to htdocs.
 3. Update database settings in application/config/database.php.
 4. Start Apache and MySQL.
